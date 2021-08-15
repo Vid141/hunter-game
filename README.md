@@ -1,1 +1,2 @@
-# hunter-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
